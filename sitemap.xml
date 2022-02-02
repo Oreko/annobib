@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://oreko.github.io/annobib/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://oreko.github.io/annobib/categories/</loc>
+  </url><url>
+    <loc>http://oreko.github.io/annobib/posts/20220202143153-password_authenticated_key_exchange/</loc>
+  </url><url>
+    <loc>http://oreko.github.io/annobib/posts/</loc>
+  </url><url>
+    <loc>http://oreko.github.io/annobib/stubs/</loc>
+  </url><url>
+    <loc>http://oreko.github.io/annobib/tags/</loc>
+  </url>
+</urlset>
