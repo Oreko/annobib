@@ -3,16 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://oreko.github.io/annobib/</loc>
+    <lastmod>2022-02-02T15:54:44-08:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>http://oreko.github.io/annobib/categories/</loc>
   </url><url>
+    <loc>http://oreko.github.io/annobib/posts/20220202160355-minimal_symmetric_pake_and_1_out_of_n_ot_from_programmable_once_public_functions/</loc>
+  </url><url>
+    <loc>http://oreko.github.io/annobib/tags/paper/</loc>
+  </url><url>
     <loc>http://oreko.github.io/annobib/posts/20220202143153-password_authenticated_key_exchange/</loc>
+    <lastmod>2022-02-02T15:54:44-08:00</lastmod>
   </url><url>
     <loc>http://oreko.github.io/annobib/posts/</loc>
+    <lastmod>2022-02-02T15:54:44-08:00</lastmod>
+  </url><url>
+    <loc>http://oreko.github.io/annobib/tags/protocol/</loc>
   </url><url>
     <loc>http://oreko.github.io/annobib/stubs/</loc>
+    <lastmod>2022-02-02T15:54:44-08:00</lastmod>
   </url><url>
     <loc>http://oreko.github.io/annobib/tags/</loc>
+    <lastmod>2022-02-02T15:54:44-08:00</lastmod>
   </url>
 </urlset>

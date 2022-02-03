@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on orekobib</title>
-    <link>http://oreko.github.io/annobib/posts/</link>
-    <description>Recent content in Posts on orekobib</description>
+    <title>Protocol on orekobib</title>
+    <link>http://oreko.github.io/annobib/tags/protocol/</link>
+    <description>Recent content in Protocol on orekobib</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://oreko.github.io/annobib/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://oreko.github.io/annobib/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minimal symmetric PAKE and 1-out-of-N OT from programmable-once public functions</title>
       <link>http://oreko.github.io/annobib/posts/20220202160355-minimal_symmetric_pake_and_1_out_of_n_ot_from_programmable_once_public_functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://oreko.github.io/annobib/posts/20220202160355-minimal_symmetric_pake_and_1_out_of_n_ot_from_programmable_once_public_functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Password-Authenticated Key Exchange</title>
-      <link>http://oreko.github.io/annobib/posts/20220202143153-password_authenticated_key_exchange/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://oreko.github.io/annobib/posts/20220202143153-password_authenticated_key_exchange/</guid>
       <description></description>
     </item>
     
